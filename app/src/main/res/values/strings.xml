@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Capsule</string>
+    <string name="blood">Blood</string>
+    <string name="video">Video</string>
+    <string name="notes">Notes</string>
+    <string name="quiz">Quiz</string>
+    <string name="back_button">Back button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monkey_info">Monkeys are very agile and intelligent animals. Monkeys are intelligent and playful, as well as very emotional They can jump from one tree to another. They can travel a mile without coming on the ground. The monkeys are divided into two categories, first: an old monkey which is found in Asia, and the second: is the new monkey which is found in South Africa.
+
+
+A total of 264 species of monkeys are found in which ancient monkeys have 32 teeth while new monkeys have 36 teeth. A total of 264 species of monkeys have their own distinct characteristics. Their average lifespan is 15 to 35 years.\n\n
+
+Most of the Monkeys live in trees. They can climb a tree quickly, and can easily jump from one tree to another. They can travel miles fast across the branches for trees without touching the floor. They lie down high into the trees throughout the night. Their inhabitants include trees of nuts, wild berries, or fruits.
+
+
+Monkeys are easily identifiable as they all have a distinct feature: tails. Most monkeys function across branches, but there are also a few species of monkeys that swing arm-to-arm of trees. Monkeys generally live in grasslands, high plains, trees, and forests.
+
+
+Monkeys interact with each other through different vocalizations for sound, body movements, or body language. Monkeys have special characteristics than other animals and are found usually in many places. Monkeys also have a strong brains and they behave like humans. Just like humans, they can use tools. Monkeys possess amazing climbing skills which are fun to watch. Monkeys respond to human commands effectively, that\'s why I like monkeys more than any other animal.
+
+
+Monkeys are mischievous and fun-loving in nature. They like to play on branches by swinging from one tree to another with the help of their hands and feet and also with their tails. There are around 260 species of monkeys present all over the world and each of them is different from one another, having their set of distinctive features.
+
+
+A monkey has a total of four legs. He uses the rear two legs as legs and uses the front two legs as his hands. The monkey also has a tail. The monkey’s tail is very strong. Monkeys keep their body balanced with the help of their tail and with the help of their tail they can also hang upside down on trees for a long time. The tail of the monkey is of different sizes in different species. Monkeys always wander in herds of about 12. Monkey faces are found to a great extent by humans. Monkeys are also called siblings of humans. The largest monkey found in the world weighs about 35 kg, and the smallest monkey is almost the size of a rat.
+
+
+\n\n<b>The Three Features of Monkeys are :</b>
+
+\n\n1. Monkeys are very good at copying, they copy humans very easily. Every monkey has its own unique fingerprints. Fingerprints of monkeys can also be taken. This is because the hands of monkeys are like the hands of humans, monkeys can also get the disease of T.B. The monkeys are the only animal that can peel and eat bananas.
+
+\n\n2. Monkeys are found sitting on trees, forests, mountains, green fields and roofs of houses. It is a family organism that lives in a herd. The diet of the monkey includes walnuts, berries, and fruits. Its favorite fruit is bananas.
+
+\n\n3. Monkeys are very intelligent. They have the power to recognize numbers. They can easily recognize numbers and can read these numbers. They can do sums and even multiply easily. The IQ level of monkeys is 174.
+
+
+\n\n<b>Interesting Facts about Monkey</b>
+\n\n1. It is said that monkeys are the closest relatives of humans and humans have evolved from monkeys over time. That is why even today the DNA of humans matches up to 98% from monkeys.
+
+\n\n2. Monkeys are referred to as the God Hanuman/ Bajrang Bali in Hinduism.
+
+\n\n3. Monkeys are very intelligent. They have the power to recognize numbers. They can easily recognize numbers and can read these numbers, they can do sums and even multiply easily. The IQ level of monkeys is 174.
+
+\n\n4. Chimpanzee, a species found in monkeys, is considered the most sensitive species.
+
+\n\n5. In Japan, monkeys are trained as waiters, so they are kept as waiters.
+
+\n\n6. Monkeys are very good at copying, they copy humans very easily. Every monkey has its own unique fingerprints. Fingerprints of monkeys can also be taken. This is because the hands of monkeys are like the hands of humans.
+
+\n\n7. The monkey is the only animal that can peel and eat bananas.
+
+\n\n8. The monkey is an animal that has also gone into space. On June 11, 1948, Albert I, who was a rhesus monkey from White Sands, New Mexico, was sent to space but died due to suffocation.
+    </string>
+    <string name="monkeys">Monkeys</string>
+    <string name="check_answer">check answer</string>
+    <string name="result">Result</string>
+    <string name="dialog_message">Do you want to move towards the results?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="you_did_a_great_job_your_score_is">You did a great job! your score is</string>
+    <string name="quiz_score">Quiz Score</string>
+    <string name="finish">Finish</string>
+    <string name="video_lecture">Video Lecture :</string>
+</resources>

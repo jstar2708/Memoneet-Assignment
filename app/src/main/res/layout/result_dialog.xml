@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Title"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/title"
+        tools:text="Choose any one of the following"
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/button2"
+        app:layout_constraintTop_toBottomOf="@id/message"
+        android:padding="5dp"
+        android:layout_marginStart="20dp"
+        android:textSize="16sp"
+        android:layout_marginEnd="20dp"
+        tools:text="option1"
+        android:backgroundTint="@color/blue_gray_400"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toRightOf="@id/button1"
+        app:layout_constraintTop_toBottomOf="@id/message"
+        app:layout_constraintRight_toRightOf="parent"
+        android:padding="5dp"
+        android:layout_marginStart="20dp"
+        android:textSize="16sp"
+        android:layout_marginEnd="20dp"
+        tools:text="option2"
+        android:backgroundTint="@color/blue_gray_400"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
