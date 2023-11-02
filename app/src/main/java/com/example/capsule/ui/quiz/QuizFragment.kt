@@ -32,6 +32,8 @@ class QuizFragment : Fragment() {
             showResult()
         }
 
+        binding.progressBar.progress = 20
+
         binding.questionNo.text = "Question ${viewModel.qNo}/5"
 
         setQuestion(Mcq.questionList[viewModel.qNo-1])
